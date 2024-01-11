@@ -2,7 +2,7 @@
 
 ## Requirements
 
-* Joomla! 3+.
+* Joomla! 4+.
 * mPDF requirements: [https://github.com/mpdf/mpdf](https://github.com/mpdf/mpdf).
 
 ## Installation

@@ -2,7 +2,7 @@
 <extension type="library" version="4.0" method="upgrade">
 	<name>MPDF</name>
 	<libraryname>mpdf</libraryname>
-	<version>8.2.0</version>
+	<version>8.2.2</version>
 	<creationDate>January 2024</creationDate>
 	<author>CMExtension / Ian Back</author>
 	<authorUrl>www.cmextension.com / www.mpdf1.com</authorUrl>
