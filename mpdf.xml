@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<extension type="library" version="3.0" method="upgrade">
+<extension type="library" version="4.0" method="upgrade">
 	<name>MPDF</name>
 	<libraryname>mpdf</libraryname>
-	<version>8.0.13</version>
-	<creationDate>February 24, 2022</creationDate>
-	<author>CMExtension team / Ian Back</author>
-	<authorUrl>www.cmext.vn / www.mpdf1.com</authorUrl>
+	<version>8.2.0</version>
+	<creationDate>January 2024</creationDate>
+	<author>CMExtension / Ian Back</author>
+	<authorUrl>www.cmextension.com / www.mpdf1.com</authorUrl>
 	<authorEmail>cmext.vn@gmail.com / ianb@bpm1.com</authorEmail>
 	<description><![CDATA[This is a Joomla! library package for mPDF - Unicode-HTML Free PDF generator. CMExtension only created this package for installing into Joomla! CMS. All credits for mPDF belong to Ian Back and the contributors.]]>
 	</description>
